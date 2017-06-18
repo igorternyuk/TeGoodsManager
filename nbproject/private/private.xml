@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/conection/DBManager.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/model/exceptions/ProductNotFoundException.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/model/Product.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/dao/DAO.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/validators/KeyListenerType.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/model/TModel.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/db_goods.sql</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/dao/ProductDAO.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/validators/TextFieldInputValidator.java</file>
+            <file>file:/home/igor/prj/java/TeGoods/src/tegoods/gui/MainWindow.java</file>
+        </group>
+    </open-files>
+</project-private>
